@@ -1,5 +1,5 @@
-Omega challenge: Switch kill switch
---
+Mac flooding attack
+---
 Ousema BOUANENI
 
 Done as part of a cybersecurity course at École polytechnique (CSC_43M05_EP)
